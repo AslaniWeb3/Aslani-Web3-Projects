@@ -1,22 +1,32 @@
-# Aslani-Web3-Projects
-A collection of Web3, blockchain, and smart contract projects by Aslani
-# Aslani Web3 Projects
+# Web3 DApp - Token Balance Checker
 
-A collection of Web3, blockchain, and smart contract projects by **Aslani**.
+A simple and professional decentralized application (DApp) that allows users to connect their wallet and view the balance of a specific token (e.g., USDT, BNB) on the Binance Smart Chain (BSC).
 
-## About Me
-I specialize in building DApps (Decentralized Applications), smart contracts, and blockchain-based platforms with a focus on DeFi, NFT, and crypto payment systems.
+## Features
 
-## Project Highlights
-- Custom smart contracts written in Solidity
-- Secure and scalable architecture
-- Integration with MetaMask, Trust Wallet, etc.
-- Web3.js & Ethers.js frontend connectivity
+- Connect any Web3 wallet (e.g., MetaMask)
+- Check token balance instantly
+- Simple, responsive UI
+- Built with HTML, CSS, and JavaScript
+- Supports BSC & BEP-20 tokens
 
-## How to Collaborate
-If you're interested in working together, feel free to reach out:
+## How to Use
 
-- Email: `officiialAslani@gmail.com`  
-- Telegram: `@AslaniOfficial`
+1. Connect your wallet.
+2. Select the token (BNB or USDT).
+3. Click 'Check Balance' and see your token amount.
 
-Let's build something great in the Web3 space!
+## Technologies Used
+
+- HTML/CSS/JavaScript
+- Web3.js
+- Solidity (for smart contracts)
+- Binance Smart Chain (BSC)
+
+## Demo
+
+This DApp is ideal for integrating into larger DeFi dashboards or standalone balance checker tools.
+
+---
+
+For business inquiries or collaboration: **officiialAslani@gmail.com**
